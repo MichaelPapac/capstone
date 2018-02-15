@@ -1,0 +1,30 @@
+# capstone project 
+
+ the question im looking to answer with my capstone project is , does the legalization of marijuanna have a net negative or positive effect on the prison population and based on those findings what course of action should be taken to cope with the change legalization of marijuanna has had on a states finacial ecosystem.
+ 
+ 
+ my client is anyone in a governmental position from senator to governer to congressman who has a marked interest in how the ecosystem of a state, states, or country might change when radically altering the landscape of avaliable intoxicants and what actions are considered criminal and warrent arrest.
+ 
+ 
+ data sets i'll be pulling will mainly be pulled from the bureau of justice statistics with some compartive data from the state of colorado  that will consist of crime rates over the last 4 years, graduation rates ovr the same time period, and hopefully incarcrtation data as well so that i can compare, on a state level, the decrease on increase in inmate population.
+ 
+ 
+ my approach to this answering this question is going to consist of a few parts, but i think if i follow the logical stps down the path i'm seeing it shouldnt be the most difficult task on earth.
+ my plan is to first establish a base line of the prison population before the legalization of marijuanna in the state of colorado.
+ then, through yearly reportings on colorados state prison attempt to establish a downward trend in either recidivism or inamate population in general.
+ if i can establish that trend i can infer that loosining regulations on (im just going to call it weed, guys) weed has had a positive effect on inmate population.
+ from there i would establish a yearly prcentage of decrease.
+ i would then in the same time period as my data for prisons  look over data on graduation rates in public schools in colorado most likely highschool.  
+ then, if i see a downward trend in graduation ratesin the same time period as the legalization of weed  i can hopefully find data that can corroborate the causal link between low graduation rates and higher crime rates.
+ from her i could hopefully establish  a percent increase or decrease in crime based on gruaruation rates, and a percent increase or decrease in crime based on the lgalization in marijuanna  and be able to establish if legalization has had a net positive or net negative  effect on the actual prison populaation
+ 
+ 
+hopefully this would be insightful information for people looking to funnel governmental funds into places that need them more. i.e. if the prison population is decreasing but graduation rates are decreasing as well budgets could be ajusted to counteract any side effects of legalization by pulling from state prison funding and placing them in state public education, drug abuse prevention or...funny hats. im not a suit, i dont know what they do.
+
+
+echo "# capstone" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/MichaelPapac/capstone.git
+git push -u origin master
